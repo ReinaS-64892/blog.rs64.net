@@ -1,0 +1,27 @@
+baseURL = 'https://blog.rs64.net/'
+languageCode = 'ja-jp'
+title = 'Reina_Sakiriaの雑多なブログ'
+theme = 'hugo-paper'
+copyright = "© 2025, Reina_Sakiria"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "https://rs64.net/"
+    weight = 10
+
+[params]
+
+color = 'light'
+
+twitter = 'ReinaS_64892'
+github = 'ReinaS-64892'
+
+avatar = 'https://github.com/ReinaS-64892.png'
+name = 'Reina_Sakiria'
+bio = '一般通過プログラミングねこ！'
+
+favicon = "https://rs64.net/favicon.ico"
