@@ -24,4 +24,7 @@ avatar = 'https://github.com/ReinaS-64892.png'
 name = 'Reina_Sakiria'
 bio = '一般通過プログラミングねこ！'
 
-favicon = "https://rs64.net/favicon.ico"
+favicon = "/favicon.ico"
+appleTouchIcon = "/favicon.ico"
+
+images = ["/favicon.ico"]
