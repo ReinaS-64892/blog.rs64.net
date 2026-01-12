@@ -18,7 +18,7 @@ Reina_Sakiria のアバター改変というのは、少し私と VRChat で私�
 いくつかここに私のアバターのサムネイルの一部をピックして置いておきましょう。
 
 {{< details summary="いくつかのアバターのサムネイル" >}}
-![Lime ReinaSEdit AfternoonChiffon](img/lac.png)
+![Lime ReinaSEdit AfternoonChiffon](img/lac.webp)
 ![MANUKA Yumeiro_Onepiece ReinaSEdit](img/myo.webp)
 ![Chocolat - ReinaSEdit](img/cd.webp)
 ![Lonfa ReinaSEdit](img/ld.webp)
