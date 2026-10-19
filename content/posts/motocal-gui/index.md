@@ -51,3 +51,9 @@ https://github.com/ReinaS-64892/MotocalGUI
 てなわけで、 AI の力で spacecal-for-monado の基盤を libmotoc に差し替えて、いくらか libmotoc の機能を GUI に追加した MotocalGUI ができました。
 
 ついでに、一部のセーブデータ (libmotoc / motoc の範囲) は motoc (CLI/TUI) とセーブデータが共有可能なはずです。
+
+## ギャラリー
+
+![img1](img/img1.png)
+![img2](img/img2.png)
+![img3](img/img3.png)
